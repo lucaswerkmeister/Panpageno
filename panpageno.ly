@@ -9,6 +9,10 @@
   }
 }
 
+\paper{
+  indent = 0\mm
+}
+
 \layout {
   \context {
     \Score
