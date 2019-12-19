@@ -2,7 +2,11 @@
 
 \header {
   title = "Panpageno"
-  composer = "Lucas Werkmeister, nach Wolfgang Amadeus Mozart"
+  composer = \markup \concat {
+    \smallCaps { "Lucas Werkmeister" }
+    ", nach "
+    { \smallCaps "W. A. Mozart" }
+  }
 }
 
 \new Staff {
