@@ -32,11 +32,11 @@
     f f g g |
     a16.( bes32 a16. g32) f8 f |
     bes bes a16.( g32) a16.( bes32) |
-    g8 r r c, |
+    g4 r8 c, |
     bes' bes g g |
     c8. b32( c) d16( c) bes( a) |
     g8 g g16.( f32) g16.( a32) |
-    f8 r4. | \bar "|."
+    f4 r8 \bar "|."
   }
 }
 \addlyrics {
