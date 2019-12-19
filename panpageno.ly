@@ -10,9 +10,10 @@
 }
 
 \new Staff {
+  \clef "bass"
   \key f \major
   \time 2/4
-  \relative c' {
+  \relative c {
     \partial 8
     c8 |
     f f g g |
