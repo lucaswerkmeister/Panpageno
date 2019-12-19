@@ -22,11 +22,7 @@
     bes' bes g g |
     c4. b16( c) d8( c) bes( a) |
     g4 g \tuplet 3/2 { g( f8) } \tuplet 3/2 { g4( a8) } |
-    f4 r r g |
-    a4. c8 c( bes) a( g) |
-    f4 r r g |
-    a8( f) a( c) c( bes) a( g) |
-    f1 | \bar "|."
+    f4 r2. | \bar "|."
   }
 }
 \addlyrics {
@@ -38,9 +34,5 @@
   auch ein gänz -- lich |
   an -- d’rer Mensch wär’ |
   Se -- lig -- keit für |
-  mich. Wär’ |
-  Se -- lig -- keit für |
-  mich. Wär’ |
-  Se -- lig -- keit für |
-  mich.
+  mich. |
 }
