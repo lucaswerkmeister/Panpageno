@@ -11,18 +11,18 @@
 
 \new Staff {
   \key f \major
-  \time 4/4
+  \time 2/4
   \relative c' {
-    \partial 4
-    c |
+    \partial 8
+    c8 |
     f f g g |
-    \tuplet 3/2 { a( bes8 } \tuplet 3/2 { a4 g8) } f4 f |
-    bes bes \tuplet 3/2 { a( g8) } \tuplet 3/2 { a4( bes8) } |
-    g4 r r c, |
+    \tuplet 3/2 { a( bes16 } \tuplet 3/2 { a8 g16) } f8 f |
+    bes bes \tuplet 3/2 { a( g16) } \tuplet 3/2 { a8( bes16) } |
+    g8 r r c, |
     bes' bes g g |
-    c4. b16( c) d8( c) bes( a) |
-    g4 g \tuplet 3/2 { g( f8) } \tuplet 3/2 { g4( a8) } |
-    f4 r2. | \bar "|."
+    c8. b32( c) d16( c) bes( a) |
+    g8 g \tuplet 3/2 { g( f16) } \tuplet 3/2 { g8( a16) } |
+    f8 r4. | \bar "|."
   }
 }
 \addlyrics {
