@@ -9,6 +9,13 @@
   }
 }
 
+\layout {
+  \context {
+    \Score
+    \remove "Bar_number_engraver"
+  }
+}
+
 \new Staff {
   \clef "bass"
   \key f \major
