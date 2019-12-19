@@ -11,6 +11,8 @@
 
 \paper{
   indent = 0\mm
+  line-width = 140\mm
+  oddFooterMarkup = ##f
 }
 
 \layout {

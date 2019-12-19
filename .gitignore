@@ -1,1 +1,6 @@
 *.pdf
+*.png
+*.eps
+*.count
+*.tex
+*.texi
