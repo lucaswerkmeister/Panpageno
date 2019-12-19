@@ -16,12 +16,12 @@
     \partial 8
     c8 |
     f f g g |
-    \tuplet 3/2 { a( bes16 } \tuplet 3/2 { a8 g16) } f8 f |
-    bes bes \tuplet 3/2 { a( g16) } \tuplet 3/2 { a8( bes16) } |
+    a16.( bes32 a16. g32) f8 f |
+    bes bes a16.( g32) a16.( bes32) |
     g8 r r c, |
     bes' bes g g |
     c8. b32( c) d16( c) bes( a) |
-    g8 g \tuplet 3/2 { g( f16) } \tuplet 3/2 { g8( a16) } |
+    g8 g g16.( f32) g16.( a32) |
     f8 r4. | \bar "|."
   }
 }
