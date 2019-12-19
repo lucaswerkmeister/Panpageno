@@ -34,5 +34,5 @@
   auch ein gänz -- lich |
   an -- d’rer Mensch wär’ |
   Se -- lig -- keit für |
-  mich. |
+  mich! |
 }
